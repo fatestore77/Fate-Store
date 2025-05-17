@@ -37,5 +37,5 @@ You have the right to:
 - Request a copy of your stored data.
 - Request data deletion (this may revoke access to premium features).
 
-**Contact us via Discord:** `@YourBotSupport`  
+**Contact us via Discord:** `https://discord.gg/fates`  
 **Or email:** `support@fatestore.xyz`
