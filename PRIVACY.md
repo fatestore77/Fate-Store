@@ -12,7 +12,7 @@ We take your privacy seriously. This document explains what data we collect and 
 - **Discord User ID** – to identify your account.
 - **Subscription Plan** – the tier or level of service.
 - **Subscription Expiry** – expiration or renewal date.
-- **Payment Status** – success/failure, handled by Stripe, Patreon, or other processors (no card data stored).
+- **Payment Status** – success/failure, handled by Telr, PayPal, or other processors (no card data stored).
 
 ---
 
